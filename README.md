@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mena</h1>
 <h3 align="center">Full-stack software engineer and snack enthusiast</h3>
 
+<p align="left">Prior to programming, I interned on a startup’s Business Development team and continued working there for over five years. My time there allowed me to gain valuable experience managing multiple responsibilities such as coordinating promotions, promptly responding to client emails, as well as setting and managing expectations. This also helped to strengthen my interpersonal skills. Having worked with clients for so long, I have a good sense of how to balance both an internal team’s needs as well as the user experience. If you’re looking for someone who can work on a technical team while effectively communicating concepts to those who are more focused on the business, look no further.</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=httpsmenahassan&label=Profile%20views&color=0e75b6&style=flat" alt="httpsmenahassan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=httpsmenahassan" alt="httpsmenahassan" /></a> </p>
