@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **the JavaScript Ecosystem**
 
-- 👨‍💻 All of my projects are available at [https://menahassan.netlify.app/](https://menahassan.netlify.app/)
+- 👨‍💻 Some of my recent projects are available at [https://menahassan.netlify.app/](https://menahassan.netlify.app/)
 
 - ⚡ Fun fact **I can't swim.**
 
