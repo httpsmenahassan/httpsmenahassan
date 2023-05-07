@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mena</h1>
 <h3 align="center">Full-stack software engineer and snack enthusiast</h3>
 
-<p align="left">For more than five years, I worked for an ebook discovery and marketing platform, advising authors and publishers on their marketing strategies. My time there allowed me to gain valuable experience managing multiple responsibilities as an administrator and project manager. As a naturally curious person who likes to problem solve, I became interested in writing code to advance in my career and learn an advantageous skill. If you’re looking for someone who can work on a technical team while effectively communicating concepts to those who are more focused on the business, look no further. As your future software engineer, I’m excited to see the impact that my work has on your mission.</p>
+<p align="left">For more than five years I worked for an ebook discovery and marketing platform, advising authors and publishers on their marketing strategies. As a naturally curious person who likes to problem solve, I became interested in writing code to advance in my career. Having worked with clients for so long, I have a good sense of how to balance both an internal team’s needs as well as the user experience. If you’re looking for someone who can work on a technical team while effectively communicating concepts to those who are more focused on the business, look no further. As your future software engineer, I’m excited to see the impact that my work has on your mission.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=httpsmenahassan&label=Profile%20views&color=0e75b6&style=flat" alt="httpsmenahassan" /> </p>
 
